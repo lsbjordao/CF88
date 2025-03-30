@@ -1,7 +1,5 @@
 # Prefácio {.unnumbered}
 
-:::
-
 ::: {.callout-note}
 
 ## Atenção
