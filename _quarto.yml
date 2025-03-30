@@ -15,7 +15,6 @@ book:
     - titulo-vii.qmd
     - titulo-viii.qmd
     - titulo-ix.qmd
-  google-analytics: "G-BEK5NBT916"
 
 lang: pt
 
@@ -30,8 +29,6 @@ format:
     include-in-header:
       - text: |
           <script src="nav-arrows.js"></script>
-  pdf:
-    documentclass: scrreprt
 
 
 
