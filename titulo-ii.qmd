@@ -60,6 +60,10 @@
 
 <span style="display: block; margin-left: 30px;">**XXVIII - **são assegurados, nos termos da lei:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;</span>
+
 <span style="display: block; margin-left: 30px;">**XXIX - **a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;</span>
 
 <span style="display: block; margin-left: 30px;">**XXX - **é garantido o direito de herança;</span>
@@ -72,6 +76,10 @@
 
 <span style="display: block; margin-left: 30px;">**XXXIV - **são a todos assegurados, independentemente do pagamento de taxas:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;</span>
+
 <span style="display: block; margin-left: 30px;">**XXXV - **a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;</span>
 
 <span style="display: block; margin-left: 30px;">**XXXVI - **a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;</span>
@@ -79,6 +87,14 @@
 <span style="display: block; margin-left: 30px;">**XXXVII - **não haverá juízo ou tribunal de exceção;</span>
 
 <span style="display: block; margin-left: 30px;">**XXXVIII - **é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** a plenitude de defesa;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** o sigilo das votações;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** a soberania dos veredictos;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** a competência para o julgamento dos crimes dolosos contra a vida;</span>
 
 <span style="display: block; margin-left: 30px;">**XXXIX - **não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;</span>
 
@@ -96,7 +112,27 @@
 
 <span style="display: block; margin-left: 30px;">**XLVI - **a lei regulará a individualização da pena e adotará, entre outras, as seguintes:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** privação ou restrição da liberdade;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** perda de bens;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** multa;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** prestação social alternativa;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** suspensão ou interdição de direitos;</span>
+
 <span style="display: block; margin-left: 30px;">**XLVII - **não haverá penas:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** de caráter perpétuo;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** de trabalhos forçados;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** de banimento;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** cruéis;</span>
 
 <span style="display: block; margin-left: 30px;">**XLVIII - **a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;</span>
 
@@ -144,9 +180,17 @@
 
 <span style="display: block; margin-left: 30px;">**LXX - **o mandado de segurança coletivo pode ser impetrado por:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** partido político com representação no Congresso Nacional;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;</span>
+
 <span style="display: block; margin-left: 30px;">**LXXI - **conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;</span>
 
 <span style="display: block; margin-left: 30px;">**LXXII - **conceder-se-á habeas data:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;</span>
 
 <span style="display: block; margin-left: 30px;">**LXXIII - **qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;</span>
 
@@ -155,6 +199,10 @@
 <span style="display: block; margin-left: 30px;">**LXXV - **o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;</span>
 
 <span style="display: block; margin-left: 30px;">**LXXVI - **são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide Lei nº 7.844, de 1989)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** o registro civil de nascimento;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** a certidão de óbito;</span>
 
 <span style="display: block; margin-left: 30px;">**LXXVII - **são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania. (Regulamento)</span>
 
@@ -232,6 +280,10 @@
 
 <span style="display: block; margin-left: 30px;">**XXIX - **ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional nº 28, de 2000)</span>
 
+<span style="display: block; margin-left: 60px;">**a)** (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 2000)</span>
+
 <span style="display: block; margin-left: 30px;">**XXX - **proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;</span>
 
 <span style="display: block; margin-left: 30px;">**XXXI - **proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;</span>
@@ -280,7 +332,17 @@
 
 <span style="display: block; margin-left: 30px;">**I - **natos:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional nº 54, de 2007)</span>
+
 <span style="display: block; margin-left: 30px;">**II - **naturalizados:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. (Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)</span>
 
@@ -308,6 +370,10 @@
 
 <span style="display: block; margin-left: 60px;">**II - **fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional nº 131, de 2023)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** revogada; (Redação dada pela Emenda Constitucional nº 131, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** revogada. (Redação dada pela Emenda Constitucional nº 131, de 2023)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 5**º A renúncia da nacionalidade, nos termos do inciso II do § 4º deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. (Incluído pela Emenda Constitucional nº 131, de 2023)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 13**. A língua portuguesa é o idioma oficial da República Federativa do Brasil.</span>
@@ -332,6 +398,12 @@
 
 <span style="display: block; margin-left: 60px;">**II - **facultativos para:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** os analfabetos;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** os maiores de setenta anos;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** os maiores de dezesseis e menores de dezoito anos.</span>
+
 <span style="display: block; margin-left: 30px;">**§ 2**º Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 3**º São condições de elegibilidade, na forma da lei:</span>
@@ -347,6 +419,14 @@
 <span style="display: block; margin-left: 60px;">**V - **a filiação partidária; Regulamento</span>
 
 <span style="display: block; margin-left: 60px;">**VI - **a idade mínima de:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** trinta e cinco anos para Presidente e Vice-Presidente da República e Senador;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz;</span>
+
+<span style="display: block; margin-left: 90px;">**d)** dezoito anos para Vereador.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 4**º São inelegíveis os inalistáveis e os analfabetos.</span>
 

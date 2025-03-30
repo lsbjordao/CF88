@@ -10,6 +10,12 @@
 
 <span style="display: block; margin-left: 60px;">**I - **restrições aos direitos de:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** reunião, ainda que exercida no seio das associações;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** sigilo de correspondência;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** sigilo de comunicação telegráfica e telefônica;</span>
+
 <span style="display: block; margin-left: 60px;">**II - **ocupação e uso temporário de bens e serviços públicos, na hipótese de calamidade pública, respondendo a União pelos danos e custos decorrentes.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 2**º O tempo de duração do estado de defesa não será superior a trinta dias, podendo ser prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua decretação.</span>

@@ -74,6 +74,18 @@
 
 <span style="display: block; margin-left: 30px;">**XII - **explorar, diretamente ou mediante autorização, concessão ou permissão:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** os serviços de radiodifusão sonora, e de sons e imagens; (Redação dada pela Emenda Constitucional nº 8, de 15/08/95:)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** a navegação aérea, aeroespacial e a infra-estrutura aeroportuária;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** os serviços de transporte rodoviário interestadual e internacional de passageiros;</span>
+
+<span style="display: block; margin-left: 60px;">**f)** os portos marítimos, fluviais e lacustres;</span>
+
 <span style="display: block; margin-left: 30px;">**XIII - **organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios; (Redação dada pela Emenda Constitucional nº 69, de 2012) (Produção de efeito)</span>
 
 <span style="display: block; margin-left: 30px;">**XIV - **organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio; (Redação dada pela Emenda Constitucional nº 104, de 2019)</span>
@@ -95,6 +107,14 @@
 <span style="display: block; margin-left: 30px;">**XXII - **executar os serviços de polícia marítima, aeroportuária e de fronteiras; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**XXIII - **explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; (Redação dada pela Emenda Constitucional nº 118, de 2022)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos; (Redação dada pela Emenda Constitucional nº 118, de 2022)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** a responsabilidade civil por danos nucleares independe da existência de culpa; (Redação dada pela Emenda Constitucional nº 49, de 2006)</span>
 
 <span style="display: block; margin-left: 30px;">**XXIV - **organizar, manter e executar a inspeção do trabalho;</span>
 
@@ -282,9 +302,69 @@
 
 <span style="display: block; margin-left: 30px;">**IV - **para a composição das Câmaras Municipais, será observado o limite máximo de: (Redação dada pela Emenda Constitucional nº 58, de 2009) (Produção de efeito) (Vide ADIN 4307)</span>
 
+<span style="display: block; margin-left: 60px;">**a)** 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes; (Redação dada pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes e de até 30.000 (trinta mil) habitantes; (Redação dada pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil) habitantes e de até 50.000 (cinquenta mil) habitantes; (Redação dada pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil) habitantes e de até 80.000 (oitenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**e)** 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil) habitantes e de até 120.000 (cento e vinte mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**f)** 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte mil) habitantes e de até 160.000 (cento sessenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**g)** 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**h)** 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil) habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**i)** 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**j)** 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil) habitantes e de até 750.000 (setecentos cinquenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**k)** 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**l)** 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**m)** 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**n)** 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**o)** 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**p)** 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**q)** 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e quatrocentos mil) habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**r)** 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**s)** 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**t)** 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**u)** 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**v)** 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**w)** 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes; e (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
+<span style="display: block; margin-left: 60px;">**x)** 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
+
 <span style="display: block; margin-left: 30px;">**V - **subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**VI - **o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos: (Redação dada pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** em Municípios de dez mil e um a cinqüenta mil habitantes, o subsídio máximo dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** em Municípios de cinqüenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a cinqüenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**e)** em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
+
+<span style="display: block; margin-left: 60px;">**f)** em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional nº 25, de 2000)</span>
 
 <span style="display: block; margin-left: 30px;">**VII - **o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município; (Incluído pela Emenda Constitucional nº 1, de 1992)</span>
 
@@ -396,9 +476,23 @@
 
 <span style="display: block; margin-left: 30px;">**V - **reorganizar as finanças da unidade da Federação que:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** deixar de entregar aos Municípios receitas tributárias fixadas nesta Constituição, dentro dos prazos estabelecidos em lei;</span>
+
 <span style="display: block; margin-left: 30px;">**VI - **prover a execução de lei federal, ordem ou decisão judicial;</span>
 
 <span style="display: block; margin-left: 30px;">**VII - **assegurar a observância dos seguintes princípios constitucionais:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** forma republicana, sistema representativo e regime democrático;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** direitos da pessoa humana;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** autonomia municipal;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** prestação de contas da administração pública, direta e indireta.</span>
+
+<span style="display: block; margin-left: 60px;">**e)** aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde. (Redação dada pela Emenda Constitucional nº 29, de 2000)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 35**. O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando:</span>
 
@@ -463,6 +557,12 @@
 <span style="display: block; margin-left: 30px;">**XV - **o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**XVI - **é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI: (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** a de dois cargos de professor; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** a de um cargo de professor com outro técnico ou científico; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas; (Redação dada pela Emenda Constitucional nº 34, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**XVII - **a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 

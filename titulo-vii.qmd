@@ -110,7 +110,19 @@
 
 <span style="display: block; margin-left: 60px;">**I - **a alíquota da contribuição poderá ser: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** diferenciada por produto ou uso; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**b)**reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150,III, b; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
 <span style="display: block; margin-left: 60px;">**II - **os recursos arrecadados serão destinados: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus derivados e derivados de petróleo; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** ao financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** ao financiamento de programas de infra-estrutura de transportes. (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**d)** ao pagamento de subsídios a tarifas de transporte público coletivo de passageiros. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 178**. A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade. (Redação dada pela Emenda Constitucional nº 7, de 1995)</span>
 
@@ -231,6 +243,10 @@
 <span style="display: block; margin-left: 30px;">**II - **(Revogado). (Redação dada pela Emenda Constitucional nº 40, de 2003)</span>
 
 <span style="display: block; margin-left: 30px;">**III - **(Revogado) (Redação dada pela Emenda Constitucional nº 40, de 2003)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** (Revogado) (Redação dada pela Emenda Constitucional nº 40, de 2003)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** (Revogado) (Redação dada pela Emenda Constitucional nº 40, de 2003)</span>
 
 <span style="display: block; margin-left: 30px;">**IV - **(Revogado) (Redação dada pela Emenda Constitucional nº 40, de 2003)</span>
 

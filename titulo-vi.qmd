@@ -28,6 +28,14 @@
 
 <span style="display: block; margin-left: 30px;">**III - **estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** obrigação, lançamento, crédito, prescrição e decadência tributários;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. 156-A e 195, V; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195, I e V, e **§ 12** e da contribuição a que se refere o art. 239. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 1**º A lei complementar de que trata o inciso III, d, também poderá instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, observado que: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**I - **será opcional para o contribuinte; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
@@ -76,6 +84,10 @@
 
 <span style="display: block; margin-left: 60px;">**III - **poderão ter alíquotas: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** específica, tendo por base a unidade de medida adotada. (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 3**º A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei. (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 4**º A lei definirá as hipóteses em que as contribuições incidirão uma única vez. (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
@@ -114,11 +126,27 @@
 
 <span style="display: block; margin-left: 30px;">**III - **cobrar tributos:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; (Vide Emenda Constitucional nº 3, de 1993)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b; (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)</span>
+
 <span style="display: block; margin-left: 30px;">**IV - **utilizar tributo com efeito de confisco;</span>
 
 <span style="display: block; margin-left: 30px;">**V - **estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público;</span>
 
 <span style="display: block; margin-left: 30px;">**VI - **instituir impostos sobre: (Vide Emenda Constitucional nº 3, de 1993)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** patrimônio, renda ou serviços, uns dos outros;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** livros, jornais, periódicos e o papel destinado a sua impressão.</span>
+
+<span style="display: block; margin-left: 60px;">**e)** fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. (Incluída pela Emenda Constitucional nº 75, de 15.10.2013)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I. (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
@@ -236,6 +264,10 @@
 
 <span style="display: block; margin-left: 60px;">**III - **terá competência para sua instituição regulada por lei complementar:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** se o doador tiver domicilio ou residência no exterior;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;</span>
+
 <span style="display: block; margin-left: 60px;">**IV - **terá suas alíquotas máximas fixadas pelo Senado Federal;</span>
 
 <span style="display: block; margin-left: 60px;">**V - **não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino. (Incluído pela Emenda Constitucional nº 126, de 2022)</span>
@@ -250,25 +282,71 @@
 
 <span style="display: block; margin-left: 60px;">**II - **a isenção ou não-incidência, salvo determinação em contrário da legislação:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** acarretará a anulação do crédito relativo às operações anteriores;</span>
+
 <span style="display: block; margin-left: 60px;">**III - **poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços;</span>
 
 <span style="display: block; margin-left: 60px;">**IV - **resolução do Senado Federal, de iniciativa do Presidente da República ou de um terço dos Senadores, aprovada pela maioria absoluta de seus membros, estabelecerá as alíquotas aplicáveis às operações e prestações, interestaduais e de exportação;</span>
 
 <span style="display: block; margin-left: 60px;">**V - **é facultado ao Senado Federal:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros;</span>
+
 <span style="display: block; margin-left: 60px;">**VI - **salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso XII, "g", as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais;</span>
 
 <span style="display: block; margin-left: 60px;">**VII - **nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado, adotar-se-á a alíquota interestadual e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a alíquota interna do Estado destinatário e a alíquota interestadual; (Redação dada pela Emenda Constitucional nº 87, de 2015) (Produção de efeito)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** (revogada); (Redação dada pela Emenda Constitucional nº 87, de 2015)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** (revogada); (Redação dada pela Emenda Constitucional nº 87, de 2015)</span>
+
 <span style="display: block; margin-left: 60px;">**VIII - **a responsabilidade pelo recolhimento do imposto correspondente à diferença entre a alíquota interna e a interestadual de que trata o inciso VII será atribuída: (Redação dada pela Emenda Constitucional nº 87, de 2015) (Produção de efeito)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** ao destinatário, quando este for contribuinte do imposto; (Incluído pela Emenda Constitucional nº 87, de 2015)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** ao remetente, quando o destinatário não for contribuinte do imposto; (Incluído pela Emenda Constitucional nº 87, de 2015)</span>
 
 <span style="display: block; margin-left: 60px;">**IX - **incidirá também:</span>
 
+<span style="display: block; margin-left: 90px;">**a)**sobre a entrada de bem ou mercadoria importados do exterior por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, assim como sobre o serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria, bem ou serviço; (Redação dada pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;</span>
+
 <span style="display: block; margin-left: 60px;">**X - **não incidirá:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do montante do imposto cobrado nas operações e prestações anteriores; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** sobre o ouro, nas hipóteses definidas no art. 153, **§ 5**º;</span>
+
+<span style="display: block; margin-left: 90px;">**d)** nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita; (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
 <span style="display: block; margin-left: 60px;">**XI - **não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos;</span>
 
 <span style="display: block; margin-left: 60px;">**XII - **cabe à lei complementar:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** definir seus contribuintes;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** dispor sobre substituição tributária;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** disciplinar o regime de compensação do imposto;</span>
+
+<span style="display: block; margin-left: 90px;">**d)** fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;</span>
+
+<span style="display: block; margin-left: 90px;">**e)** excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a";</span>
+
+<span style="display: block; margin-left: 90px;">**f)** prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;</span>
+
+<span style="display: block; margin-left: 90px;">**g)** regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.</span>
+
+<span style="display: block; margin-left: 90px;">**h)** definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, b; (Incluída pela Emenda Constitucional nº 33, de 2001) (Vide Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**i)** fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço. (Incluída pela Emenda Constitucional nº 33, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 3**º À exceção dos impostos de que tratam o inciso II do caput deste artigo e os arts. 153, I e II, e 156-A, nenhum outro imposto poderá incidir sobre operações relativas a energia elétrica e serviços de telecomunicações e, à exceção destes e do previsto no art. 153, VIII, nenhum outro imposto poderá incidir sobre operações relativas a derivados de petróleo, combustíveis e minerais do País. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -282,6 +360,12 @@
 
 <span style="display: block; margin-left: 60px;">**IV - **as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do **§ 2**º, XII, g, observando-se o seguinte: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** serão uniformes em todo o território nacional, podendo ser diferenciadas por produto; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** poderão ser específicas, por unidade de medida adotada, ou ad valorem, incidindo sobre o valor da operação ou sobre o preço que o produto ou seu similar alcançaria em uma venda em condições de livre concorrência; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** poderão ser reduzidas e restabelecidas, não se lhes aplicando o disposto no art. 150, III, b. (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 5**º As regras necessárias à aplicação do disposto no § 4º, inclusive as relativas à apuração e à destinação do imposto, serão estabelecidas mediante deliberação dos Estados e do Distrito Federal, nos termos do § 2º, XII, g. (Incluído pela Emenda Constitucional nº 33, de 2001) (Vide Emenda Constitucional nº 132, de 2023) Vigência</span>
 
 <span style="display: block; margin-left: 30px;">**§ 6**º O imposto previsto no inciso III: (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)</span>
@@ -291,6 +375,14 @@
 <span style="display: block; margin-left: 60px;">**II - **poderá ter alíquotas diferenciadas em função do tipo, do valor, da utilização e do impacto ambiental; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**III - **incidirá sobre a propriedade de veículos automotores terrestres, aquáticos e aéreos, excetuados: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** aeronaves agrícolas e de operador certificado para prestar serviços aéreos a terceiros; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** embarcações de pessoa jurídica que detenha outorga para prestar serviços de transporte aquaviário ou de pessoa física ou jurídica que pratique pesca industrial, artesanal, científica ou de subsistência; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** plataformas suscetíveis de se locomoverem na água por meios próprios, inclusive aquelas cuja finalidade principal seja a exploração de atividades econômicas em águas territoriais e na zona econômica exclusiva e embarcações que tenham essa mesma finalidade principal; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**d)** tratores e máquinas agrícolas. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 ### SEÇÃO V - DOS IMPOSTOS DOS MUNICÍPIOS
 
@@ -371,13 +463,29 @@
 
 <span style="display: block; margin-left: 60px;">**I - **as regras para a distribuição do produto da arrecadação do imposto, disciplinando, entre outros aspectos: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** a sua forma de cálculo; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** o tratamento em relação às operações em que o imposto não seja recolhido tempestivamente; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** as regras de distribuição aplicáveis aos regimes favorecidos, específicos e diferenciados de tributação previstos nesta Constituição; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 60px;">**II - **o regime de compensação, podendo estabelecer hipóteses em que o aproveitamento do crédito ficará condicionado à verificação do efetivo recolhimento do imposto incidente sobre a operação com bens materiais ou imateriais, inclusive direitos, ou com serviços, desde que: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** o adquirente possa efetuar o recolhimento do imposto incidente nas suas aquisições de bens ou serviços; ou (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** o recolhimento do imposto ocorra na liquidação financeira da operação; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**III - **a forma e o prazo para ressarcimento de créditos acumulados pelo contribuinte; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**IV - **os critérios para a definição do destino da operação, que poderá ser, inclusive, o local da entrega, da disponibilização ou da localização do bem, o da prestação ou da disponibilização do serviço ou o do domicílio ou da localização do adquirente ou destinatário do bem ou serviço, admitidas diferenciações em razão das características da operação; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**V - **a forma de desoneração da aquisição de bens de capital pelos contribuintes, que poderá ser implementada por meio de: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** crédito integral e imediato do imposto; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** diferimento; ou (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** redução em 100% (cem por cento) das alíquotas do imposto; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**VI - **as hipóteses de diferimento e desoneração do imposto aplicáveis aos regimes aduaneiros especiais e às zonas de processamento de exportação; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -391,9 +499,23 @@
 
 <span style="display: block; margin-left: 60px;">**I - **combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** serão as alíquotas uniformes em todo o território nacional, específicas por unidade de medida e diferenciadas por produto, admitida a não aplicação do disposto no **§ 1**º, V a VII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** será vedada a apropriação de créditos em relação às aquisições dos produtos de que trata este inciso destinados a distribuição, comercialização ou revenda; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** será concedido crédito nas aquisições dos produtos de que trata este inciso por sujeito passivo do imposto, observado o disposto na alínea "b" e no **§ 1**º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 60px;">**II - **serviços financeiros, operações com bens imóveis, planos de assistência à saúde e concursos de prognósticos, podendo prever: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** alterações nas alíquotas, nas regras de creditamento e na base de cálculo, admitida, em relação aos adquirentes dos bens e serviços de que trata este inciso, a não aplicação do disposto no **§ 1**º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** hipóteses em que o imposto incidirá sobre a receita ou o faturamento, com alíquota uniforme em todo o território nacional, admitida a não aplicação do disposto no **§ 1**º, V a VII, e, em relação aos adquirentes dos bens e serviços de que trata este inciso, também do disposto no § 1º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 60px;">**III - **sociedades cooperativas, que será optativo, com vistas a assegurar sua competitividade, observados os princípios da livre concorrência e da isonomia tributária, definindo, inclusive: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** as hipóteses em que o imposto não incidirá sobre as operações realizadas entre a sociedade cooperativa e seus associados, entre estes e aquela e pelas sociedades cooperativas entre si quando associadas para a consecução dos objetivos sociais; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** o regime de aproveitamento do crédito das etapas anteriores; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**IV - **serviços de hotelaria, parques de diversão e parques temáticos, agências de viagens e de turismo, bares e restaurantes, atividade esportiva desenvolvida por Sociedade Anônima do Futebol e aviação regional, podendo prever hipóteses de alterações nas alíquotas, nas bases de cálculo e nas regras de creditamento, admitida a não aplicação do disposto no **§ 1**º, V a VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -455,9 +577,17 @@
 
 <span style="display: block; margin-left: 60px;">**II - **27 (vinte e sete) membros, representando o conjunto dos Municípios e do Distrito Federal, que serão eleitos nos seguintes termos: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
+<span style="display: block; margin-left: 90px;">**a)** 14 (quatorze) representantes, com base nos votos de cada Município, com valor igual para todos; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** 13 (treze) representantes, com base nos votos de cada Município ponderados pelas respectivas populações. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 4**º As deliberações no âmbito do Comitê Gestor do Imposto sobre Bens e Serviços serão consideradas aprovadas se obtiverem, cumulativamente, os votos: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**I - **em relação ao conjunto dos Estados e do Distrito Federal: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**a)** da maioria absoluta de seus representantes; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 90px;">**b)** de representantes dos Estados e do Distrito Federal que correspondam a mais de 50% (cinquenta por cento) da população do País; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**II - **em relação ao conjunto dos Municípios e do Distrito Federal, da maioria absoluta de seus representantes. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -487,6 +617,10 @@
 
 <span style="display: block; margin-left: 30px;">**IV - **25% (vinte e cinco por cento): (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
+<span style="display: block; margin-left: 60px;">**a)** do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação; (Incluído pela Emenda Constitucional nº 132, de 2023) (Vide Emenda Constitucional nº 132, de 2023) Vigência</span>
+
+<span style="display: block; margin-left: 60px;">**b)** do produto da arrecadação do imposto previsto no art. 156-A distribuída aos Estados. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 1**º As parcelas de receita pertencentes aos Municípios mencionadas no inciso IV, "a", serão creditadas conforme os seguintes critérios: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**I - **65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios; (Redação dada pela Emenda Constitucional nº 108, de 2020)</span>
@@ -506,6 +640,18 @@
 <span style="display: block; margin-left: 0px;">**Art. 159**. A União entregará: (Vide Emenda Constitucional nº 55, de 2007)</span>
 
 <span style="display: block; margin-left: 30px;">**I - **do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados e do imposto previsto no art. 153, VIII, 50% (cinquenta por cento), da seguinte forma: (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal; (Vide Lei Complementar nº 62, de 1989) (Regulamento)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios; (Vide Lei Complementar nº 62, de 1989) (Regulamento)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à Região, na forma que a lei estabelecer; (Regulamento)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano; (Incluído pela Emenda Constitucional nº 55, de 2007)</span>
+
+<span style="display: block; margin-left: 60px;">**e)** 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de julho de cada ano; (Incluída pela Emenda Constitucional nº 84, de 2014)</span>
+
+<span style="display: block; margin-left: 60px;">**f)** 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de setembro de cada ano; (Incluído pela Emenda Constitucional nº 112, de 2021) Produção de efeitos</span>
 
 <span style="display: block; margin-left: 30px;">**II - **do produto da arrecadação do imposto sobre produtos industrializados e do imposto previsto no art. 153, VIII, 10% (dez por cento) aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -582,6 +728,16 @@
 <span style="display: block; margin-left: 30px;">**VII - **compatibilização das funções das instituições oficiais de crédito da União, resguardadas as características e condições operacionais plenas das voltadas ao desenvolvimento regional.</span>
 
 <span style="display: block; margin-left: 30px;">**VIII - **sustentabilidade da dívida, especificando: (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** indicadores de sua apuração; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** níveis de compatibilidade dos resultados fiscais com a trajetória da dívida; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** trajetória de convergência do montante da dívida com os limites definidos em legislação; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** medidas de ajuste, suspensões e vedações; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**e)** planejamento de alienação de ativos com vistas à redução do montante da dívida. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 30px;">**IX - **condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional nº 135, de 2024)</span>
 
@@ -679,7 +835,17 @@
 
 <span style="display: block; margin-left: 60px;">**II - **indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** dotações para pessoal e seus encargos;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** serviço da dívida;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** transferências tributárias constitucionais para Estados, Municípios e Distrito Federal; ou</span>
+
 <span style="display: block; margin-left: 60px;">**III - **sejam relacionadas:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** com a correção de erros ou omissões; ou</span>
+
+<span style="display: block; margin-left: 90px;">**b)** com os dispositivos do texto do projeto de lei.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 4**º As emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual.</span>
 
@@ -808,6 +974,14 @@
 <span style="display: block; margin-left: 30px;">**III - **alteração de estrutura de carreira que implique aumento de despesa; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 30px;">**IV - **admissão ou contratação de pessoal, a qualquer título, ressalvadas: (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** as reposições de cargos de chefia e de direção que não acarretem aumento de despesa; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** as contratações temporárias de que trata o inciso IX do caput do art. 37 desta Constituição; e (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** as reposições de temporários para prestação de serviço militar e de alunos de órgãos de formação de militares; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 30px;">**V - **realização de concurso público, exceto para as reposições de vacâncias previstas no inciso IV deste caput; (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 

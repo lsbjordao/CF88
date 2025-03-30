@@ -1,4 +1,4 @@
-# TÍTULO IV - Da Organização dos Poderes
+# TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES
 
 ## CAPÍTULO I - DO PODER LEGISLATIVO
 
@@ -118,6 +118,18 @@
 
 <span style="display: block; margin-left: 30px;">**III - **aprovar previamente, por voto secreto, após argüição pública, a escolha de:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** Magistrados, nos casos estabelecidos nesta Constituição;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** Ministros do Tribunal de Contas da União indicados pelo Presidente da República;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** Governador de Território;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** Presidente e diretores do banco central;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** Procurador-Geral da República;</span>
+
+<span style="display: block; margin-left: 60px;">**f)** titulares de outros cargos que a lei determinar;</span>
+
 <span style="display: block; margin-left: 30px;">**IV - **aprovar previamente, por voto secreto, após argüição em sessão secreta, a escolha dos chefes de missão diplomática de caráter permanente;</span>
 
 <span style="display: block; margin-left: 30px;">**V - **autorizar operações externas de natureza financeira, de interesse da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios;</span>
@@ -168,7 +180,19 @@
 
 <span style="display: block; margin-left: 30px;">**I - **desde a expedição do diploma:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam demissíveis "ad nutum", nas entidades constantes da alínea anterior;</span>
+
 <span style="display: block; margin-left: 30px;">**II - **desde a posse:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** ser proprietários, controladores ou diretores de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** ocupar cargo ou função de que sejam demissíveis "ad nutum", nas entidades referidas no inciso I, "a";</span>
+
+<span style="display: block; margin-left: 60px;">**c)** patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso I, "a";</span>
+
+<span style="display: block; margin-left: 60px;">**d)** ser titulares de mais de um cargo ou mandato público eletivo.</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 55**. Perderá o mandato o Deputado ou Senador:</span>
 
@@ -320,11 +344,31 @@
 
 <span style="display: block; margin-left: 60px;">**II - **disponham sobre:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria; (Redação dada pela Emenda Constitucional nº 18, de 1998)</span>
+
+<span style="display: block; margin-left: 90px;">**d)** organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;</span>
+
+<span style="display: block; margin-left: 90px;">**e)** criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. 84, VI; (Redação dada pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 90px;">**f)** militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva. (Incluída pela Emenda Constitucional nº 18, de 1998)</span>
+
 <span style="display: block; margin-left: 30px;">**§ 2**º A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 62**. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional. (Redação dada pela Emenda Constitucional nº 32, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º É vedada a edição de medidas provisórias sobre matéria: (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 60px;">**a)** nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** direito penal, processual penal e processual civil; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, **§ 3**º; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 2**º Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada. (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
 
@@ -538,6 +582,10 @@
 
 <span style="display: block; margin-left: 30px;">**V - **vetar projetos de lei, total ou parcialmente;</span>
 
+<span style="display: block; margin-left: 60px;">**a)** organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos; (Incluída pela Emenda Constitucional nº 32, de 2001)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** extinção de funções ou cargos públicos, quando vagos; (Incluída pela Emenda Constitucional nº 32, de 2001)</span>
+
 <span style="display: block; margin-left: 30px;">**VII - **manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos;</span>
 
 <span style="display: block; margin-left: 30px;">**VIII - **celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional;</span>
@@ -726,6 +774,16 @@
 
 <span style="display: block; margin-left: 30px;">**II - **promoção de entrância para entrância, alternadamente, por antigüidade e merecimento, atendidas as seguintes normas:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** é obrigatória a promoção do juiz que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o juiz a primeira quinta parte da lista de antigüidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** aferição do merecimento conforme o desempenho e pelos critérios objetivos de produtividade e presteza no exercício da jurisdição e pela freqüência e aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** na apuração de antigüidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto fundamentado de dois terços de seus membros, conforme procedimento próprio, e assegurada ampla defesa, repetindo-se a votação até fixar-se a indicação; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 60px;">**e)** não será promovido o juiz que, injustificadamente, retiver autos em seu poder além do prazo legal, não podendo devolvê-los ao cartório sem o devido despacho ou decisão; (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
+
 <span style="display: block; margin-left: 30px;">**V - **o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, **§ 4**º; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**VI - **a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. 40; (Redação dada pela Emenda Constitucional nº 20, de 1998)</span>
@@ -756,7 +814,27 @@
 
 <span style="display: block; margin-left: 30px;">**I - **aos tribunais:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** eleger seus órgãos diretivos e elaborar seus regimentos internos, com observância das normas de processo e das garantias processuais das partes, dispondo sobre a competência e o funcionamento dos respectivos órgãos jurisdicionais e administrativos;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** organizar suas secretarias e serviços auxiliares e os dos juízos que lhes forem vinculados, velando pelo exercício da atividade correicional respectiva;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** prover, na forma prevista nesta Constituição, os cargos de juiz de carreira da respectiva jurisdição;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** propor a criação de novas varas judiciárias;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** prover, por concurso público de provas, ou de provas e títulos, obedecido o disposto no art. 169, parágrafo único, os cargos necessários à administração da Justiça, exceto os de confiança assim definidos em lei;</span>
+
+<span style="display: block; margin-left: 60px;">**f)** conceder licença, férias e outros afastamentos a seus membros e aos juízes e servidores que lhes forem imediatamente vinculados;</span>
+
 <span style="display: block; margin-left: 30px;">**II - **ao Supremo Tribunal Federal, aos Tribunais Superiores e aos Tribunais de Justiça propor ao Poder Legislativo respectivo, observado o disposto no art. 169:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** a alteração do número de membros dos tribunais inferiores;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos tribunais inferiores, onde houver; (Redação dada pela Emenda Constitucional nº 41, 19.12.2003)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** a criação ou extinção dos tribunais inferiores;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** a alteração da organização e da divisão judiciárias;</span>
 
 <span style="display: block; margin-left: 30px;">**III - **aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Federal e Territórios, bem como os membros do Ministério Público, nos crimes comuns e de responsabilidade, ressalvada a competência da Justiça Eleitoral.</span>
 
@@ -874,9 +952,55 @@
 
 <span style="display: block; margin-left: 30px;">**I - **processar e julgar, originariamente:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (Redação dada pela Emenda Constitucional nº 3, de 1993)</span>
+
+<span style="display: block; margin-left: 60px;">**b)** nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, ressalvado o disposto no art. 52, I, os membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão diplomática de caráter permanente; (Redação dada pela Emenda Constitucional nº 23, de 1999)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** o habeas corpus, sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** o litígio entre Estado estrangeiro ou organismo internacional e a União, o Estado, o Distrito Federal ou o Território;</span>
+
+<span style="display: block; margin-left: 60px;">**f)** as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta;</span>
+
+<span style="display: block; margin-left: 60px;">**g)** a extradição solicitada por Estado estrangeiro;</span>
+
+<span style="display: block; margin-left: 60px;">**h)** (Revogado pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 60px;">**i)** o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância; (Redação dada pela Emenda Constitucional nº 22, de 1999)</span>
+
+<span style="display: block; margin-left: 60px;">**j)** a revisão criminal e a ação rescisória de seus julgados;</span>
+
+<span style="display: block; margin-left: 60px;">**l)** a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;</span>
+
+<span style="display: block; margin-left: 60px;">**m)** a execução de sentença nas causas de sua competência originária, facultada a delegação de atribuições para a prática de atos processuais;</span>
+
+<span style="display: block; margin-left: 60px;">**n)** a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados, e aquela em que mais da metade dos membros do tribunal de origem estejam impedidos ou sejam direta ou indiretamente interessados;</span>
+
+<span style="display: block; margin-left: 60px;">**o)** os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;</span>
+
+<span style="display: block; margin-left: 60px;">**p)** o pedido de medida cautelar das ações diretas de inconstitucionalidade;</span>
+
+<span style="display: block; margin-left: 60px;">**q)** o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal;</span>
+
+<span style="display: block; margin-left: 60px;">**r)** as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público; (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
+
 <span style="display: block; margin-left: 30px;">**II - **julgar, em recurso ordinário:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** o crime político;</span>
+
 <span style="display: block; margin-left: 30px;">**III - **julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** contrariar dispositivo desta Constituição;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** declarar a inconstitucionalidade de tratado ou lei federal;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** julgar válida lei ou ato de governo local contestado em face desta Constituição.</span>
+
+<span style="display: block; margin-left: 60px;">**d)** julgar válida lei local contestada em face de lei federal. (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**.º A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei. (Transformado do parágrafo único em § 1º pela Emenda Constitucional nº 3, de 17/03/93)</span>
 
@@ -958,9 +1082,41 @@
 
 <span style="display: block; margin-left: 30px;">**I - **processar e julgar, originariamente:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal; (Redação dada pela Emenda Constitucional nº 23, de 1999)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral; (Redação dada pela Emenda Constitucional nº 23, de 1999)</span>
+
+<span style="display: block; margin-left: 60px;">**d)** os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** as revisões criminais e as ações rescisórias de seus julgados;</span>
+
+<span style="display: block; margin-left: 60px;">**f)** a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;</span>
+
+<span style="display: block; margin-left: 60px;">**g)** os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União;</span>
+
+<span style="display: block; margin-left: 60px;">**h)** o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;</span>
+
+<span style="display: block; margin-left: 60px;">**i)** a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias; (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 60px;">**j)** os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A e 195, V; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+
 <span style="display: block; margin-left: 30px;">**II - **julgar, em recurso ordinário:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País;</span>
+
 <span style="display: block; margin-left: 30px;">**III - **julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** contrariar tratado ou lei federal, ou negar-lhes vigência;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** julgar válido ato de governo local contestado em face de lei federal; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 60px;">**c)** der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º Funcionarão junto ao Superior Tribunal de Justiça:</span>
 
@@ -1007,6 +1163,16 @@
 <span style="display: block; margin-left: 0px;">**Art. 108**. Compete aos Tribunais Regionais Federais:</span>
 
 <span style="display: block; margin-left: 30px;">**I - **processar e julgar, originariamente:</span>
+
+<span style="display: block; margin-left: 60px;">**a)** os juízes federais da área de sua jurisdição, incluídos os da Justiça Militar e da Justiça do Trabalho, nos crimes comuns e de responsabilidade, e os membros do Ministério Público da União, ressalvada a competência da Justiça Eleitoral;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** as revisões criminais e as ações rescisórias de julgados seus ou dos juízes federais da região;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** os mandados de segurança e os habeas data contra ato do próprio Tribunal ou de juiz federal;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** os habeas corpus, quando a autoridade coatora for juiz federal;</span>
+
+<span style="display: block; margin-left: 60px;">**e)** os conflitos de competência entre juízes federais vinculados ao Tribunal;</span>
 
 <span style="display: block; margin-left: 30px;">**II - **julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição.</span>
 
@@ -1104,6 +1270,10 @@
 
 <span style="display: block; margin-left: 30px;">**I - **mediante eleição, pelo voto secreto:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** três juízes dentre os Ministros do Supremo Tribunal Federal;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** dois juízes dentre os Ministros do Superior Tribunal de Justiça;</span>
+
 <span style="display: block; margin-left: 30px;">**II - **por nomeação do Presidente da República, dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Supremo Tribunal Federal.</span>
 
 <span style="display: block; margin-left: 30px;">**Parágrafo único**. O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça.</span>
@@ -1113,6 +1283,10 @@
 <span style="display: block; margin-left: 30px;">**§ 1**º - Os Tribunais Regionais Eleitorais compor-se-ão:</span>
 
 <span style="display: block; margin-left: 60px;">**I - **mediante eleição, pelo voto secreto:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** de dois juízes dentre os desembargadores do Tribunal de Justiça;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** de dois juízes, dentre juízes de direito, escolhidos pelo Tribunal de Justiça;</span>
 
 <span style="display: block; margin-left: 60px;">**II - **de um juiz do Tribunal Regional Federal com sede na Capital do Estado ou no Distrito Federal, ou, não havendo, de juiz federal, escolhido, em qualquer caso, pelo Tribunal Regional Federal respectivo;</span>
 
@@ -1204,6 +1378,14 @@
 
 <span style="display: block; margin-left: 30px;">**I - **o Ministério Público da União, que compreende:</span>
 
+<span style="display: block; margin-left: 60px;">**a)** o Ministério Público Federal;</span>
+
+<span style="display: block; margin-left: 60px;">**b)** o Ministério Público do Trabalho;</span>
+
+<span style="display: block; margin-left: 60px;">**c)** o Ministério Público Militar;</span>
+
+<span style="display: block; margin-left: 60px;">**d)** o Ministério Público do Distrito Federal e Territórios;</span>
+
 <span style="display: block; margin-left: 30px;">**II - **os Ministérios Públicos dos Estados.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º O Ministério Público da União tem por chefe o Procurador-Geral da República, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de dois anos, permitida a recondução.</span>
@@ -1218,7 +1400,25 @@
 
 <span style="display: block; margin-left: 60px;">**I - **as seguintes garantias:</span>
 
+<span style="display: block; margin-left: 90px;">**a)** vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 90px;">**c)** irredutibilidade de subsídio, fixado na forma do art. 39, **§ 4**º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+
 <span style="display: block; margin-left: 60px;">**II - **as seguintes vedações:</span>
+
+<span style="display: block; margin-left: 90px;">**a)** receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais;</span>
+
+<span style="display: block; margin-left: 90px;">**b)** exercer a advocacia;</span>
+
+<span style="display: block; margin-left: 90px;">**c)** participar de sociedade comercial, na forma da lei;</span>
+
+<span style="display: block; margin-left: 90px;">**d)** exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de magistério;</span>
+
+<span style="display: block; margin-left: 90px;">**e)** exercer atividade político-partidária; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+
+<span style="display: block; margin-left: 90px;">**f)** receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei. (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 6**º Aplica-se aos membros do Ministério Público o disposto no art. 95, parágrafo único, V. (Incluído pela Emenda Constitucional nº 45, de 2004)</span>
 
