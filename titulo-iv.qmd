@@ -1,4 +1,4 @@
-# TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES
+# TÍTULO IV - Da Organização dos Poderes
 
 ## CAPÍTULO I - DO PODER LEGISLATIVO
 
@@ -52,7 +52,7 @@
 
 <span style="display: block; margin-left: 30px;">**XIV - **moeda, seus limites de emissão, e montante da dívida mobiliária federal.</span>
 
-<span style="display: block; margin-left: 30px;">**XV - **fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. 39, **§ 4**º; 150, II; 153, III; e 153, § 2º, I. (Redação dada pela Emenda Constitucional nº 41, 19.12.2003)</span>
+<span style="display: block; margin-left: 30px;">**XV - **fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. 39, § 4º; 150, II; 153, III; e 153, § 2º, I. (Redação dada pela Emenda Constitucional nº 41, 19.12.2003)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 49**. É da competência exclusiva do Congresso Nacional:</span>
 
@@ -68,9 +68,9 @@
 
 <span style="display: block; margin-left: 30px;">**VI - **mudar temporariamente sua sede;</span>
 
-<span style="display: block; margin-left: 30px;">**VII - **fixar idêntico subsídio para os Deputados Federais e os Senadores, observado o que dispõem os arts. 37, XI, 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**VII - **fixar idêntico subsídio para os Deputados Federais e os Senadores, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
-<span style="display: block; margin-left: 30px;">**VIII - **fixar os subsídios do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**VIII - **fixar os subsídios do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**IX - **julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo;</span>
 
@@ -368,7 +368,7 @@
 
 <span style="display: block; margin-left: 60px;">**c)** organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
 
-<span style="display: block; margin-left: 60px;">**d)** planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, **§ 3**º; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
+<span style="display: block; margin-left: 60px;">**d)** planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º; (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 2**º Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada. (Incluído pela Emenda Constitucional nº 32, de 2001)</span>
 
@@ -394,7 +394,7 @@
 
 <span style="display: block; margin-left: 0px;">**Art. 63**. Não será admitido aumento da despesa prevista:</span>
 
-<span style="display: block; margin-left: 30px;">**I - **nos projetos de iniciativa exclusiva do Presidente da República, ressalvado o disposto no art. 166, **§ 3**º e § 4º;</span>
+<span style="display: block; margin-left: 30px;">**I - **nos projetos de iniciativa exclusiva do Presidente da República, ressalvado o disposto no art. 166, § 3º e § 4º;</span>
 
 <span style="display: block; margin-left: 30px;">**II - **nos projetos sobre organização dos serviços administrativos da Câmara dos Deputados, do Senado Federal, dos Tribunais Federais e do Ministério Público.</span>
 
@@ -784,7 +784,7 @@
 
 <span style="display: block; margin-left: 60px;">**e)** não será promovido o juiz que, injustificadamente, retiver autos em seu poder além do prazo legal, não podendo devolvê-los ao cartório sem o devido despacho ou decisão; (Incluída pela Emenda Constitucional nº 45, de 2004)</span>
 
-<span style="display: block; margin-left: 30px;">**V - **o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, **§ 4**º; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**V - **o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39, § 4º; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**VI - **a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. 40; (Redação dada pela Emenda Constitucional nº 20, de 1998)</span>
 
@@ -800,7 +800,7 @@
 
 <span style="display: block; margin-left: 30px;">**II - **inamovibilidade, salvo por motivo de interesse público, na forma do art. 93, VIII;</span>
 
-<span style="display: block; margin-left: 30px;">**III - **irredutibilidade de subsídio, ressalvado o disposto nos arts. 37, X e XI, 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I. (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**III - **irredutibilidade de subsídio, ressalvado o disposto nos arts. 37, X e XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I. (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**Parágrafo único**. Aos juízes é vedado:</span>
 
@@ -920,7 +920,7 @@
 
 <span style="display: block; margin-left: 60px;">**II - **nos Estados, as parcelas entregues aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional nº 94, de 2016)</span>
 
-<span style="display: block; margin-left: 60px;">**III - **na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no **§ 9**º do art. 201 da Constituição Federal. (Incluído pela Emenda Constitucional nº 94, de 2016)</span>
+<span style="display: block; margin-left: 60px;">**III - **na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal. (Incluído pela Emenda Constitucional nº 94, de 2016)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 19**. Caso o montante total de débitos decorrentes de condenações judiciais em precatórios e obrigações de pequeno valor, em período de 12 (doze) meses, ultrapasse a média do comprometimento percentual da receita corrente líquida nos 5 (cinco) anos imediatamente anteriores, a parcela que exceder esse percentual poderá ser financiada, excetuada dos limites de endividamento de que tratam os incisos VI e VII do art. 52 da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse financiamento a vedação de vinculação de receita prevista no inciso IV do art. 167 da Constituição Federal. (Incluído pela Emenda Constitucional nº 94, de 2016)</span>
 
@@ -1404,7 +1404,7 @@
 
 <span style="display: block; margin-left: 90px;">**b)** inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa; (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
 
-<span style="display: block; margin-left: 90px;">**c)** irredutibilidade de subsídio, fixado na forma do art. 39, **§ 4**º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 90px;">**c)** irredutibilidade de subsídio, fixado na forma do art. 39, § 4º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 60px;">**II - **as seguintes vedações:</span>
 
@@ -1498,5 +1498,5 @@
 
 <span style="display: block; margin-left: 30px;">**§ 4**º São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. 93 e no inciso II do art. 96 desta Constituição Federal. (Incluído pela Emenda Constitucional nº 80, de 2014)</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 135**. Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, **§ 4**º. (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 0px;">**Art. 135**. Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. 39, § 4º. (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 

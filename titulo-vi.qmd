@@ -34,7 +34,7 @@
 
 <span style="display: block; margin-left: 60px;">**c)** adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. 156-A e 195, V; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**d)** definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195, I e V, e **§ 12** e da contribuição a que se refere o art. 239. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**d)** definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195, I e V, e § 12 e da contribuição a que se refere o art. 239. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º A lei complementar de que trata o inciso III, d, também poderá instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, observado que: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -52,7 +52,7 @@
 
 <span style="display: block; margin-left: 60px;">**I - **não será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e 195, V, pelo contribuinte optante pelo regime único; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**II - **será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e 195, V, pelo adquirente não optante pelo regime único de que trata o **§ 1**º de bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao cobrado por meio do regime único. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**II - **será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e 195, V, pelo adquirente não optante pelo regime único de que trata o § 1º de bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao cobrado por meio do regime único. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 146**-A. Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo. (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
@@ -66,7 +66,7 @@
 
 <span style="display: block; margin-left: 30px;">**Parágrafo único**. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 149**. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, **§ 6**º, relativamente às contribuições a que alude o dispositivo.</span>
+<span style="display: block; margin-left: 0px;">**Art. 149**. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º A União, os Estados, o Distrito Federal e os Municípios instituirão, por meio de lei, contribuições para custeio de regime próprio de previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas, que poderão ter alíquotas progressivas de acordo com o valor da base de contribuição ou dos proventos de aposentadoria e de pensões. (Redação dada pela Emenda Constitucional nº 103, de 2019) (Vigência</span>
 
@@ -106,7 +106,7 @@
 
 <span style="display: block; margin-left: 30px;">**IV - **regras de não cumulatividade e de creditamento. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 30px;">**Parágrafo único**. Os tributos de que trata o caput observarão as imunidades previstas no art. 150, VI, não se aplicando a ambos os tributos o disposto no art. 195, **§ 7**º. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 30px;">**Parágrafo único**. Os tributos de que trata o caput observarão as imunidades previstas no art. 150, VI, não se aplicando a ambos os tributos o disposto no art. 195, § 7º. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 149**-C. O produto da arrecadação do imposto previsto no art. 156-A e da contribuição prevista no art. 195, V, incidentes sobre operações contratadas pela administração pública direta, por autarquias e por fundações públicas, inclusive suas importações, será integralmente destinado ao ente federativo contratante, mediante redução a zero das alíquotas do imposto e da contribuição devidos aos demais entes e equivalente elevação da alíquota do tributo devido ao ente contratante. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -322,7 +322,7 @@
 
 <span style="display: block; margin-left: 90px;">**b)** sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;</span>
 
-<span style="display: block; margin-left: 90px;">**c)** sobre o ouro, nas hipóteses definidas no art. 153, **§ 5**º;</span>
+<span style="display: block; margin-left: 90px;">**c)** sobre o ouro, nas hipóteses definidas no art. 153, § 5º;</span>
 
 <span style="display: block; margin-left: 90px;">**d)** nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita; (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
@@ -358,7 +358,7 @@
 
 <span style="display: block; margin-left: 60px;">**III - **nas operações interestaduais com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso I deste parágrafo, destinadas a não contribuinte, o imposto caberá ao Estado de origem; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
-<span style="display: block; margin-left: 60px;">**IV - **as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do **§ 2**º, XII, g, observando-se o seguinte: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
+<span style="display: block; margin-left: 60px;">**IV - **as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do § 2º, XII, g, observando-se o seguinte: (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
 <span style="display: block; margin-left: 90px;">**a)** serão uniformes em todo o território nacional, podendo ser diferenciadas por produto; (Incluído pela Emenda Constitucional nº 33, de 2001)</span>
 
@@ -427,7 +427,7 @@
 
 <span style="display: block; margin-left: 60px;">**II - **incidirá também sobre a importação de bens materiais ou imateriais, inclusive direitos, ou de serviços realizada por pessoa física ou jurídica, ainda que não seja sujeito passivo habitual do imposto, qualquer que seja a sua finalidade; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**III - **não incidirá sobre as exportações, assegurados ao exportador a manutenção e o aproveitamento dos créditos relativos às operações nas quais seja adquirente de bem material ou imaterial, inclusive direitos, ou serviço, observado o disposto no **§ 5**º, III; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**III - **não incidirá sobre as exportações, assegurados ao exportador a manutenção e o aproveitamento dos créditos relativos às operações nas quais seja adquirente de bem material ou imaterial, inclusive direitos, ou serviço, observado o disposto no § 5º, III; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**IV - **terá legislação única e uniforme em todo o território nacional, ressalvado o disposto no inciso V; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -455,7 +455,7 @@
 
 <span style="display: block; margin-left: 30px;">**§ 4**º Para fins de distribuição do produto da arrecadação do imposto, o Comitê Gestor do Imposto sobre Bens e Serviços: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**I - **reterá montante equivalente ao saldo acumulado de créditos do imposto não compensados pelos contribuintes e não ressarcidos ao final de cada período de apuração e aos valores decorrentes do cumprimento do **§ 5**º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**I - **reterá montante equivalente ao saldo acumulado de créditos do imposto não compensados pelos contribuintes e não ressarcidos ao final de cada período de apuração e aos valores decorrentes do cumprimento do § 5º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**II - **distribuirá o produto da arrecadação do imposto, deduzida a retenção de que trata o inciso I deste parágrafo, ao ente federativo de destino das operações que não tenham gerado creditamento. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -499,17 +499,17 @@
 
 <span style="display: block; margin-left: 60px;">**I - **combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 90px;">**a)** serão as alíquotas uniformes em todo o território nacional, específicas por unidade de medida e diferenciadas por produto, admitida a não aplicação do disposto no **§ 1**º, V a VII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 90px;">**a)** serão as alíquotas uniformes em todo o território nacional, específicas por unidade de medida e diferenciadas por produto, admitida a não aplicação do disposto no § 1º, V a VII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 90px;">**b)** será vedada a apropriação de créditos em relação às aquisições dos produtos de que trata este inciso destinados a distribuição, comercialização ou revenda; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 90px;">**c)** será concedido crédito nas aquisições dos produtos de que trata este inciso por sujeito passivo do imposto, observado o disposto na alínea "b" e no **§ 1**º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 90px;">**c)** será concedido crédito nas aquisições dos produtos de que trata este inciso por sujeito passivo do imposto, observado o disposto na alínea "b" e no § 1º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**II - **serviços financeiros, operações com bens imóveis, planos de assistência à saúde e concursos de prognósticos, podendo prever: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 90px;">**a)** alterações nas alíquotas, nas regras de creditamento e na base de cálculo, admitida, em relação aos adquirentes dos bens e serviços de que trata este inciso, a não aplicação do disposto no **§ 1**º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 90px;">**a)** alterações nas alíquotas, nas regras de creditamento e na base de cálculo, admitida, em relação aos adquirentes dos bens e serviços de que trata este inciso, a não aplicação do disposto no § 1º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 90px;">**b)** hipóteses em que o imposto incidirá sobre a receita ou o faturamento, com alíquota uniforme em todo o território nacional, admitida a não aplicação do disposto no **§ 1**º, V a VII, e, em relação aos adquirentes dos bens e serviços de que trata este inciso, também do disposto no § 1º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 90px;">**b)** hipóteses em que o imposto incidirá sobre a receita ou o faturamento, com alíquota uniforme em todo o território nacional, admitida a não aplicação do disposto no § 1º, V a VII, e, em relação aos adquirentes dos bens e serviços de que trata este inciso, também do disposto no § 1º, VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**III - **sociedades cooperativas, que será optativo, com vistas a assegurar sua competitividade, observados os princípios da livre concorrência e da isonomia tributária, definindo, inclusive: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -517,23 +517,23 @@
 
 <span style="display: block; margin-left: 90px;">**b)** o regime de aproveitamento do crédito das etapas anteriores; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**IV - **serviços de hotelaria, parques de diversão e parques temáticos, agências de viagens e de turismo, bares e restaurantes, atividade esportiva desenvolvida por Sociedade Anônima do Futebol e aviação regional, podendo prever hipóteses de alterações nas alíquotas, nas bases de cálculo e nas regras de creditamento, admitida a não aplicação do disposto no **§ 1**º, V a VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**IV - **serviços de hotelaria, parques de diversão e parques temáticos, agências de viagens e de turismo, bares e restaurantes, atividade esportiva desenvolvida por Sociedade Anônima do Futebol e aviação regional, podendo prever hipóteses de alterações nas alíquotas, nas bases de cálculo e nas regras de creditamento, admitida a não aplicação do disposto no § 1º, V a VIII; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**V - **operações alcançadas por tratado ou convenção internacional, inclusive referentes a missões diplomáticas, repartições consulares, representações de organismos internacionais e respectivos funcionários acreditados; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**VI - **serviços de transporte coletivo de passageiros rodoviário intermunicipal e interestadual, ferroviário e hidroviário, podendo prever hipóteses de alterações nas alíquotas e nas regras de creditamento, admitida a não aplicação do disposto no **§ 1**º, V a VIII. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**VI - **serviços de transporte coletivo de passageiros rodoviário intermunicipal e interestadual, ferroviário e hidroviário, podendo prever hipóteses de alterações nas alíquotas e nas regras de creditamento, admitida a não aplicação do disposto no § 1º, V a VIII. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 7**º A isenção e a imunidade: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**I - **não implicarão crédito para compensação com o montante devido nas operações seguintes; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**II - **acarretarão a anulação do crédito relativo às operações anteriores, salvo, na hipótese da imunidade, inclusive em relação ao inciso XI do **§ 1**º, quando determinado em contrário em lei complementar. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**II - **acarretarão a anulação do crédito relativo às operações anteriores, salvo, na hipótese da imunidade, inclusive em relação ao inciso XI do § 1º, quando determinado em contrário em lei complementar. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 8**º Para fins do disposto neste artigo, a lei complementar de que trata o caput poderá estabelecer o conceito de operações com serviços, seu conteúdo e alcance, admitida essa definição para qualquer operação que não seja classificada como operação com bens materiais ou imateriais, inclusive direitos. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 9**º Qualquer alteração na legislação federal que reduza ou eleve a arrecadação do imposto: (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**I - **deverá ser compensada pela elevação ou redução, pelo Senado Federal, das alíquotas de referência de que trata o **§ 1**º, XII, de modo a preservar a arrecadação das esferas federativas, nos termos de lei complementar; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**I - **deverá ser compensada pela elevação ou redução, pelo Senado Federal, das alíquotas de referência de que trata o § 1º, XII, de modo a preservar a arrecadação das esferas federativas, nos termos de lei complementar; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**II - **somente entrará em vigor com o início da produção de efeitos do ajuste das alíquotas de referência de que trata o inciso I deste parágrafo. (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -611,7 +611,7 @@
 
 <span style="display: block; margin-left: 30px;">**I - **o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;</span>
 
-<span style="display: block; margin-left: 30px;">**II - **cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere o art. 153, **§ 4**º, III; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
+<span style="display: block; margin-left: 30px;">**II - **cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere o art. 153, § 4º, III; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
 <span style="display: block; margin-left: 30px;">**III - **50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores licenciados em seus territórios e, em relação a veículos aquáticos e aéreos, cujos proprietários sejam domiciliados em seus territórios; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
@@ -655,7 +655,7 @@
 
 <span style="display: block; margin-left: 30px;">**II - **do produto da arrecadação do imposto sobre produtos industrializados e do imposto previsto no art. 153, VIII, 10% (dez por cento) aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 30px;">**III - **do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, **§ 4**º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observadas as destinações a que se referem as alíneas "c" e "d" do inciso II do referido parágrafo. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 30px;">**III - **do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observadas as destinações a que se referem as alíneas "c" e "d" do inciso II do referido parágrafo. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.</span>
 
@@ -695,7 +695,7 @@
 
 <span style="display: block; margin-left: 0px;">**Art. 161**. Cabe à lei complementar:</span>
 
-<span style="display: block; margin-left: 30px;">**I - **definir valor adicionado para fins do disposto no art. 158, **§ 1**º, I; (Redação dada pela Emenda Constitucional nº 132, de 2023) (Vide Emenda Constitucional nº 132, de 2023) Vigência</span>
+<span style="display: block; margin-left: 30px;">**I - **definir valor adicionado para fins do disposto no art. 158, § 1º, I; (Redação dada pela Emenda Constitucional nº 132, de 2023) (Vide Emenda Constitucional nº 132, de 2023) Vigência</span>
 
 <span style="display: block; margin-left: 30px;">**II - **estabelecer normas sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I, objetivando promover o equilíbrio sócio-econômico entre Estados e entre Municípios;</span>
 
@@ -795,7 +795,7 @@
 
 <span style="display: block; margin-left: 60px;">**II - **estabelecer normas de gestão financeira e patrimonial da administração direta e indireta bem como condições para a instituição e funcionamento de fundos.</span>
 
-<span style="display: block; margin-left: 60px;">**III - **dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto nos §**§ 11** e 12 do art. 166. (Redação dada pela Emenda Constitucional nº 100, de 2019) (Produção de efeito) (Vide ADI 7697)</span>
+<span style="display: block; margin-left: 60px;">**III - **dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto nos §§ 11 e 12 do art. 166. (Redação dada pela Emenda Constitucional nº 100, de 2019) (Produção de efeito) (Vide ADI 7697)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 10**. A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade. (Incluído pela Emenda Constitucional nº 100, de 2019) (Produção de efeito) (Vide ADI 7697)</span>
 
@@ -909,7 +909,7 @@
 
 <span style="display: block; margin-left: 60px;">**II - **pertencerão ao ente federado no ato da efetiva transferência financeira; e (Incluído pela Emenda Constitucional nº 105, de 2019)</span>
 
-<span style="display: block; margin-left: 60px;">**III - **serão aplicadas em programações finalísticas das áreas de competência do Poder Executivo do ente federado beneficiado, observado o disposto no **§ 5**º deste artigo. (Incluído pela Emenda Constitucional nº 105, de 2019)</span>
+<span style="display: block; margin-left: 60px;">**III - **serão aplicadas em programações finalísticas das áreas de competência do Poder Executivo do ente federado beneficiado, observado o disposto no § 5º deste artigo. (Incluído pela Emenda Constitucional nº 105, de 2019)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 3**º O ente federado beneficiado da transferência especial a que se refere o inciso I do caput deste artigo poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos. (Incluído pela Emenda Constitucional nº 105, de 2019)</span>
 
@@ -929,7 +929,7 @@
 
 <span style="display: block; margin-left: 30px;">**III - **a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; (Vide Emenda constitucional nº 106, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**IV - **a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, **§ 2**º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
+<span style="display: block; margin-left: 30px;">**IV - **a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)</span>
 
 <span style="display: block; margin-left: 30px;">**V - **a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes;</span>
 
@@ -937,7 +937,7 @@
 
 <span style="display: block; margin-left: 30px;">**VII - **a concessão ou utilização de créditos ilimitados;</span>
 
-<span style="display: block; margin-left: 30px;">**VIII - **a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos, inclusive dos mencionados no art. 165, **§ 5**º;</span>
+<span style="display: block; margin-left: 30px;">**VIII - **a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos, inclusive dos mencionados no art. 165, § 5º;</span>
 
 <span style="display: block; margin-left: 30px;">**IX - **a instituição de fundos de qualquer natureza, sem prévia autorização legislativa.</span>
 
@@ -945,7 +945,7 @@
 
 <span style="display: block; margin-left: 30px;">**XI - **a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201. (Incluído pela Emenda Constitucional nº 20, de 1998)</span>
 
-<span style="display: block; margin-left: 30px;">**XII - **na forma estabelecida na lei complementar de que trata o **§ 22** do art. 40, a utilização de recursos de regime próprio de previdência social, incluídos os valores integrantes dos fundos previstos no art. 249, para a realização de despesas distintas do pagamento dos benefícios previdenciários do respectivo fundo vinculado àquele regime e das despesas necessárias à sua organização e ao seu funcionamento; (Incluído pela Emenda Constitucional nº 103, de 2019)</span>
+<span style="display: block; margin-left: 30px;">**XII - **na forma estabelecida na lei complementar de que trata o § 22 do art. 40, a utilização de recursos de regime próprio de previdência social, incluídos os valores integrantes dos fundos previstos no art. 249, para a realização de despesas distintas do pagamento dos benefícios previdenciários do respectivo fundo vinculado àquele regime e das despesas necessárias à sua organização e ao seu funcionamento; (Incluído pela Emenda Constitucional nº 103, de 2019)</span>
 
 <span style="display: block; margin-left: 30px;">**XIII - **a transferência voluntária de recursos, a concessão de avais, as garantias e as subvenções pela União e a concessão de empréstimos e de financiamentos por instituições financeiras federais aos Estados, ao Distrito Federal e aos Municípios na hipótese de descumprimento das regras gerais de organização e de funcionamento de regime próprio de previdência social. (Incluído pela Emenda Constitucional nº 103, de 2019)</span>
 
@@ -1005,7 +1005,7 @@
 
 <span style="display: block; margin-left: 60px;">**II - **transcorrido o prazo de 180 (cento e oitenta) dias sem que se ultime a sua apreciação; ou (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
-<span style="display: block; margin-left: 60px;">**III - **apurado que não mais se verifica a hipótese prevista no **§ 1**º deste artigo, mesmo após a sua aprovação pelo Poder Legislativo. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+<span style="display: block; margin-left: 60px;">**III - **apurado que não mais se verifica a hipótese prevista no § 1º deste artigo, mesmo após a sua aprovação pelo Poder Legislativo. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 4**º A apuração referida neste artigo deve ser realizada bimestralmente. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
@@ -1023,11 +1023,11 @@
 
 <span style="display: block; margin-left: 0px;">**Art. 167**-B. Durante a vigência de estado de calamidade pública de âmbito nacional, decretado pelo Congresso Nacional por iniciativa privativa do Presidente da República, a União deve adotar regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nos arts. 167-C, 167-D, 167-E, 167-F e 167-G desta Constituição. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 167**-C. Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do **§ 1**º do art. 169 na contratação de que trata o inciso IX do caput do art. 37 desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+<span style="display: block; margin-left: 0px;">**Art. 167**-C. Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § 1º do art. 169 na contratação de que trata o inciso IX do caput do art. 37 desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 167**-D. As proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, desde que não impliquem despesa obrigatória de caráter continuado, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
-<span style="display: block; margin-left: 30px;">**Parágrafo único**. Durante a vigência da calamidade pública de âmbito nacional de que trata o art. 167-B, não se aplica o disposto no **§ 3**º do art. 195 desta Constituição. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
+<span style="display: block; margin-left: 30px;">**Parágrafo único**. Durante a vigência da calamidade pública de âmbito nacional de que trata o art. 167-B, não se aplica o disposto no § 3º do art. 195 desta Constituição. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
 <span style="display: block; margin-left: 0px;">**Art. 167**-E. Fica dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública de âmbito nacional, a observância do inciso III do caput do art. 167 desta Constituição. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
@@ -1055,7 +1055,7 @@
 
 <span style="display: block; margin-left: 30px;">**§ 3**º É facultada aos Estados, ao Distrito Federal e aos Municípios a aplicação das vedações referidas no caput, nos termos deste artigo, e, até que as tenham adotado na integralidade, estarão submetidos às restrições do § 6º do art. 167-A desta Constituição, enquanto perdurarem seus efeitos para a União. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 168**. Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, **§ 9**º. (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
+<span style="display: block; margin-left: 0px;">**Art. 168**. Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9º. (Redação dada pela Emenda Constitucional nº 45, de 2004)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º É vedada a transferência a fundos de recursos financeiros oriundos de repasses duodecimais. (Incluído pela Emenda Constitucional nº 109, de 2021)</span>
 

@@ -106,11 +106,11 @@
 
 <span style="display: block; margin-left: 60px;">**II - **no caso dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. 155 e 156-A e dos recursos de que tratam os arts. 157 e 159, I, "a", e II, deduzidas as parcelas que forem transferidas aos respectivos Municípios; (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**III - **no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. 156 e 156-A e dos recursos de que tratam os arts. 158 e 159, I, "b", e **§ 3**º. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**III - **no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. 156 e 156-A e dos recursos de que tratam os arts. 158 e 159, I, "b", e § 3º. (Redação dada pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 3**º Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá: (Incluído pela Emenda Constitucional nº 29, de 2000) Regulamento</span>
 
-<span style="display: block; margin-left: 60px;">**I - **os percentuais de que tratam os incisos II e III do **§ 2**º; (Redação dada pela Emenda Constitucional nº 86, de 2015)</span>
+<span style="display: block; margin-left: 60px;">**I - **os percentuais de que tratam os incisos II e III do § 2º; (Redação dada pela Emenda Constitucional nº 86, de 2015)</span>
 
 <span style="display: block; margin-left: 60px;">**IV - **(revogado). (Redação dada pela Emenda Constitucional nº 86, de 2015)</span>
 
@@ -178,7 +178,7 @@
 
 <span style="display: block; margin-left: 30px;">**IV - **salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda; (Redação dada pela Emenda Constitucional nº 20, de 1998)</span>
 
-<span style="display: block; margin-left: 30px;">**V - **pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no **§ 2**º. (Redação dada pela Emenda Constitucional nº 20, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**V - **pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º. (Redação dada pela Emenda Constitucional nº 20, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**§ 1**º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios, ressalvada, nos termos de lei complementar, a possibilidade de previsão de idade e tempo de contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos segurados: (Redação dada pela Emenda Constitucional nº 103, de 2019)</span>
 
@@ -378,11 +378,11 @@
 
 <span style="display: block; margin-left: 60px;">**a)** das parcelas dos Estados no imposto de que trata o art. 156-A; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 60px;">**b)** da parcela do Distrito Federal no imposto de que trata o art. 156-A, relativa ao exercício de sua competência estadual, nos termos do art. 156-A, **§ 2**º; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
+<span style="display: block; margin-left: 60px;">**b)** da parcela do Distrito Federal no imposto de que trata o art. 156-A, relativa ao exercício de sua competência estadual, nos termos do art. 156-A, § 2º; e (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
 <span style="display: block; margin-left: 60px;">**c)** dos recursos a que se referem os incisos I, II e III do caput do art. 155, o inciso II do caput do art. 157, os incisos II, III e IV do caput do art. 158 e as alíneas "a" e "b" do inciso I e o inciso II do caput do art. 159 desta Constituição; (Incluído pela Emenda Constitucional nº 132, de 2023)</span>
 
-<span style="display: block; margin-left: 30px;">**III - **os recursos referidos no inciso II do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §**§ 2**º e 3º do art. 211 desta Constituição, observadas as ponderações referidas na alínea "a" do inciso X do caput e no § 2º deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 30px;">**III - **os recursos referidos no inciso II do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição, observadas as ponderações referidas na alínea "a" do inciso X do caput e no § 2º deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 30px;">**IV - **a União complementará os recursos dos fundos a que se refere o inciso II do caput deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
@@ -394,15 +394,15 @@
 
 <span style="display: block; margin-left: 60px;">**c)** 2,5 (dois inteiros e cinco décimos) pontos percentuais nas redes públicas que, cumpridas condicionalidades de melhoria de gestão previstas em lei, alcançarem evolução de indicadores a serem definidos, de atendimento e melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**VI - **o VAAT será calculado, na forma da lei de que trata o inciso X do caput deste artigo, com base nos recursos a que se refere o inciso II do caput deste artigo, acrescidos de outras receitas e de transferências vinculadas à educação, observado o disposto no **§ 1**º e consideradas as matrículas nos termos do inciso III do caput deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 30px;">**VI - **o VAAT será calculado, na forma da lei de que trata o inciso X do caput deste artigo, com base nos recursos a que se refere o inciso II do caput deste artigo, acrescidos de outras receitas e de transferências vinculadas à educação, observado o disposto no § 1º e consideradas as matrículas nos termos do inciso III do caput deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**VII - **os recursos de que tratam os incisos II e IV do caput deste artigo serão aplicados pelos Estados e pelos Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §**§ 2**º e 3º do art. 211 desta Constituição; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 30px;">**VII - **os recursos de que tratam os incisos II e IV do caput deste artigo serão aplicados pelos Estados e pelos Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 30px;">**VIII - **a vinculação de recursos à manutenção e ao desenvolvimento do ensino estabelecida no art. 212 desta Constituição suportará, no máximo, 30% (trinta por cento) da complementação da União, considerados para os fins deste inciso os valores previstos no inciso V do caput deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 30px;">**IX - **o disposto no caput do art. 160 desta Constituição aplica-se aos recursos referidos nos incisos II e IV do caput deste artigo, e seu descumprimento pela autoridade competente importará em crime de responsabilidade; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**X - **a lei disporá, observadas as garantias estabelecidas nos incisos I, II, III e IV do caput e no **§ 1**º do art. 208 e as metas pertinentes do plano nacional de educação, nos termos previstos no art. 214 desta Constituição, sobre: (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 30px;">**X - **a lei disporá, observadas as garantias estabelecidas nos incisos I, II, III e IV do caput e no § 1º do art. 208 e as metas pertinentes do plano nacional de educação, nos termos previstos no art. 214 desta Constituição, sobre: (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 60px;">**a)** a organização dos fundos referidos no inciso I do caput deste artigo e a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, observados as respectivas especificidades e os insumos necessários para a garantia de sua qualidade; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
@@ -418,7 +418,7 @@
 
 <span style="display: block; margin-left: 30px;">**XII - **lei específica disporá sobre o piso salarial profissional nacional para os profissionais do magistério da educação básica pública; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**XIII - **a utilização dos recursos a que se refere o **§ 5**º do art. 212 desta Constituição para a complementação da União ao Fundeb, referida no inciso V do caput deste artigo, é vedada. (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 30px;">**XIII - **a utilização dos recursos a que se refere o § 5º do art. 212 desta Constituição para a complementação da União ao Fundeb, referida no inciso V do caput deste artigo, é vedada. (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 30px;">**XIV - **no exercício de 2025, da complementação de que trata o inciso V docaput, até 10% (dez por cento) dos valores de cada uma das modalidades referidas nesse dispositivo poderão ser repassados pela União para ações de fomento à criação de matrículas em tempo integral na educação básica pública, considerados indicadores de atendimento, melhoria da qualidade e redução de desigualdades, mantida a classificação orçamentária do repasse como Fundeb, não se aplicando, para fins deste inciso, os critérios de que tratam as alíneas "a", "b" e "c" do inciso V deste artigo; (Incluído pela Emenda Constitucional nº 135, de 2024)</span>
 
@@ -428,7 +428,7 @@
 
 <span style="display: block; margin-left: 60px;">**I - **receitas de Estados, do Distrito Federal e de Municípios vinculadas à manutenção e ao desenvolvimento do ensino não integrantes dos fundos referidos no inciso I do caput deste artigo; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
-<span style="display: block; margin-left: 60px;">**II - **cotas estaduais e municipais da arrecadação do salário-educação de que trata o **§ 6**º do art. 212 desta Constituição; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
+<span style="display: block; margin-left: 60px;">**II - **cotas estaduais e municipais da arrecadação do salário-educação de que trata o § 6º do art. 212 desta Constituição; (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 
 <span style="display: block; margin-left: 60px;">**III - **complementação da União transferida a Estados, ao Distrito Federal e a Municípios nos termos da alínea "a" do inciso V do caput deste artigo. (Incluído pela Emenda Constitucional nº 108, de 2020)</span>
 

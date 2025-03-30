@@ -350,7 +350,7 @@
 
 <span style="display: block; margin-left: 60px;">**x)** 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes; (Incluída pela Emenda Constitucional nº 58, de 2009)</span>
 
-<span style="display: block; margin-left: 30px;">**V - **subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**V - **subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**VI - **o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos: (Redação dada pela Emenda Constitucional nº 25, de 2000)</span>
 
@@ -382,7 +382,7 @@
 
 <span style="display: block; margin-left: 30px;">**XIV - **perda do mandato do Prefeito, nos termos do art. 28, parágrafo único. (Renumerado do inciso XII, pela Emenda Constitucional nº 1, de 1992)</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 29**-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no **§ 5**º do art. 153 e nos arts. 158 e 159 desta Constituição, efetivamente realizado no exercício anterior: (Redação dada pela Emenda Constitucional nº 109, de 2021) (Vigência)</span>
+<span style="display: block; margin-left: 0px;">**Art. 29**-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159 desta Constituição, efetivamente realizado no exercício anterior: (Redação dada pela Emenda Constitucional nº 109, de 2021) (Vigência)</span>
 
 <span style="display: block; margin-left: 30px;">**I - **7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes; (Redação dada pela Emenda Constituição Constitucional nº 58, de 2009) (Produção de efeito)</span>
 
@@ -544,7 +544,7 @@
 
 <span style="display: block; margin-left: 30px;">**IX - **a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público; (Vide Emenda constitucional nº 106, de 2020)</span>
 
-<span style="display: block; margin-left: 30px;">**X - **a remuneração dos servidores públicos e o subsídio de que trata o **§ 4**º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (Redação dada pela Emenda Constitucional nº 19, de 1998) (Regulamento)</span>
+<span style="display: block; margin-left: 30px;">**X - **a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (Redação dada pela Emenda Constitucional nº 19, de 1998) (Regulamento)</span>
 
 <span style="display: block; margin-left: 30px;">**XI - **a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsidio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos; (Redação dada pela Emenda Constitucional nº 41, 19.12.2003)</span>
 
@@ -554,7 +554,7 @@
 
 <span style="display: block; margin-left: 30px;">**XIV - **os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
-<span style="display: block; margin-left: 30px;">**XV - **o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, **§ 4**º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
+<span style="display: block; margin-left: 30px;">**XV - **o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
 <span style="display: block; margin-left: 30px;">**XVI - **é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI: (Redação dada pela Emenda Constitucional nº 19, de 1998)</span>
 
