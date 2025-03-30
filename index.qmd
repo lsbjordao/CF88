@@ -1,0 +1,11 @@
+# Prefácio {.unnumbered}
+
+:::
+
+::: {.callout-note}
+
+## Atenção
+
+Este conteúdo é uma reprodução da Constituição Federal de 1988. Para garantir informações atualizadas e consultar a versão oficial, acesse a [fonte oficial](https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm).
+
+:::
