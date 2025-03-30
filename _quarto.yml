@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Constituição Federal de 1988"
-  date: "30/03/2025"
+  date: "03/30/2025"
   chapters:
     - index.qmd
     - titulo-i.qmd
@@ -15,6 +15,7 @@ book:
     - titulo-vii.qmd
     - titulo-viii.qmd
     - titulo-ix.qmd
+  google-analytics: "G-BEK5NBT916"
 
 lang: pt
 
