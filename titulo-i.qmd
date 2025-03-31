@@ -1,52 +1,60 @@
 # TÍTULO I - Dos Princípios Fundamentais
 
-<span style="display: block; margin-left: 0px;">**Art. 1**º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:</span>
+<span class="caret"></span><ul class="nested">
+<span style="display: block; margin-left: 0px;" class="level-5">**Art. 1**º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:</span>
 
-<span style="display: block; margin-left: 30px;">**I - **a soberania;</span>
+<span class="caret"></span><ul class="nested">
+<span style="display: block; margin-left: 30px;" class="level-7">**I - **a soberania;</span>
 
-<span style="display: block; margin-left: 30px;">**II - **a cidadania</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**II - **a cidadania</span>
 
-<span style="display: block; margin-left: 30px;">**III - **a dignidade da pessoa humana;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**III - **a dignidade da pessoa humana;</span>
 
-<span style="display: block; margin-left: 30px;">**IV - **os valores sociais do trabalho e da livre iniciativa; (Vide Lei nº 13.874, de 2019)</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**IV - **os valores sociais do trabalho e da livre iniciativa; (Vide Lei nº 13.874, de 2019)</span>
 
-<span style="display: block; margin-left: 30px;">**V - **o pluralismo político.</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**V - **o pluralismo político.</span>
 
-<span style="display: block; margin-left: 30px;">**Parágrafo único**. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.</span>
+<span style="display: block; margin-left: 30px;" class="level-6">**Parágrafo único**. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 2**º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.</span>
+</ul>
+<span style="display: block; margin-left: 0px;" class="level-5">**Art. 2**º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 3**º Constituem objetivos fundamentais da República Federativa do Brasil:</span>
+<span style="display: block; margin-left: 0px;" class="level-5">**Art. 3**º Constituem objetivos fundamentais da República Federativa do Brasil:</span>
 
-<span style="display: block; margin-left: 30px;">**I - **construir uma sociedade livre, justa e solidária;</span>
+<span class="caret"></span><ul class="nested">
+<span style="display: block; margin-left: 30px;" class="level-7">**I - **construir uma sociedade livre, justa e solidária;</span>
 
-<span style="display: block; margin-left: 30px;">**II - **garantir o desenvolvimento nacional;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**II - **garantir o desenvolvimento nacional;</span>
 
-<span style="display: block; margin-left: 30px;">**III - **erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**III - **erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;</span>
 
-<span style="display: block; margin-left: 30px;">**IV - **promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**IV - **promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.</span>
 
-<span style="display: block; margin-left: 0px;">**Art. 4**º A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:</span>
+</ul>
+<span style="display: block; margin-left: 0px;" class="level-5">**Art. 4**º A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:</span>
 
-<span style="display: block; margin-left: 30px;">**I - **independência nacional;</span>
+<span class="caret"></span><ul class="nested">
+<span style="display: block; margin-left: 30px;" class="level-7">**I - **independência nacional;</span>
 
-<span style="display: block; margin-left: 30px;">**II - **prevalência dos direitos humanos;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**II - **prevalência dos direitos humanos;</span>
 
-<span style="display: block; margin-left: 30px;">**III - **autodeterminação dos povos;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**III - **autodeterminação dos povos;</span>
 
-<span style="display: block; margin-left: 30px;">**IV - **não-intervenção;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**IV - **não-intervenção;</span>
 
-<span style="display: block; margin-left: 30px;">**V - **igualdade entre os Estados;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**V - **igualdade entre os Estados;</span>
 
-<span style="display: block; margin-left: 30px;">**VI - **defesa da paz;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**VI - **defesa da paz;</span>
 
-<span style="display: block; margin-left: 30px;">**VII - **solução pacífica dos conflitos;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**VII - **solução pacífica dos conflitos;</span>
 
-<span style="display: block; margin-left: 30px;">**VIII - **repúdio ao terrorismo e ao racismo;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**VIII - **repúdio ao terrorismo e ao racismo;</span>
 
-<span style="display: block; margin-left: 30px;">**IX - **cooperação entre os povos para o progresso da humanidade;</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**IX - **cooperação entre os povos para o progresso da humanidade;</span>
 
-<span style="display: block; margin-left: 30px;">**X - **concessão de asilo político.</span>
+<span style="display: block; margin-left: 30px;" class="level-7">**X - **concessão de asilo político.</span>
 
-<span style="display: block; margin-left: 30px;">**Parágrafo único**. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.</span>
+<span style="display: block; margin-left: 30px;" class="level-6">**Parágrafo único**. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.</span>
 
+</ul>
+</ul>

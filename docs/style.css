@@ -1,8 +1,149 @@
-p strong {
-    font-weight: bold !important;
+/* Estilo comum */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    transition: background-color 0.3s, color 0.3s;
 }
 
-.highlight-hover:hover {
-    background-color: #f0f8ff;  /* Cor de fundo ao passar o mouse */
-    transition: background-color 0.3s ease;  /* Suaviza a transição */
+h2 {
+    color: #333;
+    font-size: 24px; /* Tamanho fixo do título */
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.caret::before {
+    content: "▶"; /* Seta para a direita */
+    font-size: 16px;
+    color: black; /* Cor da seta */
+    display: inline-block;
+    margin-right: 6px;
+    background: none; /* Garantir que não haja fundo */
+}
+
+.caret-down::before {
+    content: "▼"; /* Seta para baixo */
+    font-size: 16px;
+    color: black; /* Cor da seta */
+    background: none; /* Garantir que não haja fundo */
+}
+
+.nested {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+/* Ajustes na hierarquia visual */
+.level-1 {
+    font-weight: bold;
+    font-size: 28px; /* Título com fonte maior e fixa */
+}
+
+.level-2 {
+    font-weight: bold;
+    font-size: 26px; /* Capítulo menor que o título, mas fixo */
+}
+
+.level-3 {
+    font-weight: bold;
+    font-size: 24px; /* Seção com fonte menor que Capítulo */
+}
+
+.level-4 {
+    font-weight: normal;
+    font-size: 22px; /* Subseção com fonte um pouco menor que Seção */
+}
+
+.level-5, .level-6, .level-7 {
+    font-weight: normal;
+    font-size: 18px; /* Artigo, Parágrafo e Inciso com o mesmo tamanho fixo */
+}
+
+/* Modo escuro */
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+body.dark-mode ul {
+    color: #fff;
+}
+
+body.dark-mode .caret::before {
+    color: white;
+}
+
+body.dark-mode .caret-down::before {
+    color: white;
+}
+
+/* Estilo para o switch de modo escuro */
+#mode-toggle {
+    margin-bottom: 20px;
+}
+
+#mode-toggle .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+#mode-toggle .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+#mode-toggle .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 34px;
+}
+
+#mode-toggle .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    border-radius: 50%;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: 0.4s;
+}
+
+/* Quando o checkbox está marcado (modo escuro) */
+input:checked + .slider {
+    background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+    transform: translateX(26px);
+}
+
+/* Alterações de cor quando no modo escuro */
+body.dark-mode #mode-toggle .slider {
+    background-color: #2196F3;
+}
+
+body.dark-mode #mode-toggle .slider:before {
+    transform: translateX(26px);
 }
