@@ -20,6 +20,7 @@ li {
     cursor: pointer;
 }
 
+/* Setas para colapso/expansão */
 .caret::before {
     content: "▶"; /* Seta para a direita */
     font-size: 16px;
@@ -36,10 +37,12 @@ li {
     background: none; /* Garantir que não haja fundo */
 }
 
+/* Lista aninhada inicialmente oculta */
 .nested {
     display: none;
 }
 
+/* Quando a classe "active" for adicionada, o item será exibido */
 .active {
     display: block;
 }
@@ -146,4 +149,26 @@ body.dark-mode #mode-toggle .slider {
 
 body.dark-mode #mode-toggle .slider:before {
     transform: translateX(26px);
+}
+
+/* Ajustes para garantir que o conteúdo não transborde no modo escuro */
+body.dark-mode ul {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* Estilo para garantir que o texto no <summary> tenha a cor correta */
+details summary {
+    color: inherit; /* Herda a cor do elemento pai */
+    cursor: pointer; /* Garante que o cursor se pareça com o de clique */
+}
+
+/* Para garantir que o texto dentro de <summary> no modo escuro tenha a cor correta */
+body.dark-mode details summary {
+    color: inherit; /* Cor do texto herdada no modo escuro */
+}
+
+/* Se você quiser alterar a cor da seta no <summary>, pode fazer assim */
+details summary::before {
+    color: inherit; /* Herda a cor da seta do texto */
 }
