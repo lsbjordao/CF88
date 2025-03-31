@@ -149,8 +149,3 @@ details summary {
 body.dark-mode details summary {
     color: inherit; /* Cor do texto herdada no modo escuro */
 }
-
-/* Se você quiser alterar a cor da seta no <summary>, pode fazer assim */
-details summary::before {
-    color: inherit; /* Herda a cor da seta do texto */
-}
