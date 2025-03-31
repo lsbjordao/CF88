@@ -148,5 +148,5 @@ details summary {
 
 /* Para garantir que o texto dentro de <summary> no modo escuro tenha a cor correta */
 body.dark-mode details summary {
-    color: #fff; /* Cor do texto herdada no modo escuro */
+    color: #ccc;
 }
