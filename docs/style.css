@@ -142,10 +142,11 @@ body.dark-mode ul {
 
 /* Estilo para garantir que o texto no <summary> tenha a cor correta */
 details summary {
+    color: #333;
     cursor: pointer; /* Garante que o cursor se pareça com o de clique */
 }
 
 /* Para garantir que o texto dentro de <summary> no modo escuro tenha a cor correta */
 body.dark-mode details summary {
-    color: inherit; /* Cor do texto herdada no modo escuro */
+    color: #fff; /* Cor do texto herdada no modo escuro */
 }
