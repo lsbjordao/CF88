@@ -55,3 +55,13 @@ li {
     font-weight: normal;
     font-size: 18px; /* Artigo, Parágrafo e Inciso com o mesmo tamanho fixo */
 }
+
+details summary {
+    color: inherit;
+    cursor: pointer;  /* Garantir que o cursor seja indicado como clicável */
+}
+
+/* Garantir que o texto dentro do <summary> tenha a cor correta no modo escuro */
+body.dark-mode details summary {
+    color: inherit;
+}

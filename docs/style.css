@@ -57,11 +57,11 @@ li {
 }
 
 details summary {
-    color: #333;  /* Cor do texto igual ao estilo de outros elementos */
+    color: inherit;
     cursor: pointer;  /* Garantir que o cursor seja indicado como clicável */
 }
 
 /* Garantir que o texto dentro do <summary> tenha a cor correta no modo escuro */
 body.dark-mode details summary {
-    color: #fff;  /* Cor do texto no modo escuro */
+    color: inherit;
 }
