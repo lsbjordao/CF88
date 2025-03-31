@@ -20,23 +20,6 @@ li {
     cursor: pointer;
 }
 
-/* Setas para colapso/expansão */
-.caret::before {
-    content: "▶"; /* Seta para a direita */
-    font-size: 16px;
-    color: black; /* Cor da seta */
-    display: inline-block;
-    margin-right: 6px;
-    background: none; /* Garantir que não haja fundo */
-}
-
-.caret-down::before {
-    content: "▼"; /* Seta para baixo */
-    font-size: 16px;
-    color: black; /* Cor da seta */
-    background: none; /* Garantir que não haja fundo */
-}
-
 /* Lista aninhada inicialmente oculta */
 .nested {
     display: none;
@@ -159,7 +142,6 @@ body.dark-mode ul {
 
 /* Estilo para garantir que o texto no <summary> tenha a cor correta */
 details summary {
-    color: inherit; /* Herda a cor do elemento pai */
     cursor: pointer; /* Garante que o cursor se pareça com o de clique */
 }
 
