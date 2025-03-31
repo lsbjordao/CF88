@@ -56,53 +56,12 @@ li {
     font-size: 18px; /* Artigo, Parágrafo e Inciso com o mesmo tamanho fixo */
 }
 
-/* Estilo para o switch de modo escuro */
-#mode-toggle {
-    margin-bottom: 20px;
+details summary {
+    color: #333;  /* Cor do texto igual ao estilo de outros elementos */
+    cursor: pointer;  /* Garantir que o cursor seja indicado como clicável */
 }
 
-#mode-toggle .switch {
-    position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 34px;
-}
-
-#mode-toggle .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
-
-#mode-toggle .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    transition: 0.4s;
-    border-radius: 34px;
-}
-
-#mode-toggle .slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    border-radius: 50%;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    transition: 0.4s;
-}
-
-/* Quando o checkbox está marcado (modo escuro) */
-input:checked + .slider {
-    background-color: #2196F3;
-}
-
-input:checked + .slider:before {
-    transform: translateX(26px);
+/* Garantir que o texto dentro do <summary> tenha a cor correta no modo escuro */
+body.dark-mode details summary {
+    color: #fff;  /* Cor do texto no modo escuro */
 }
