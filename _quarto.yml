@@ -6,8 +6,8 @@ project:
 
 adsense:
   publisher-id: ca-pub-9088403291464012
-filters:
-  - adsense
+  filters:
+    - adsense
 
 book:
   title: "Constituição Federal de 1988"
