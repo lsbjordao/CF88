@@ -6,6 +6,7 @@ body {
 
 ul {
     list-style-type: none;
+    padding-left: 20px;
 }
 
 li {
@@ -51,7 +52,6 @@ li {
 
 details summary {
     color: inherit !important;
-    text-indent: -19px;
     cursor: pointer;  /* Garantir que o cursor seja indicado como clicável */
 }
 
