@@ -8,8 +8,6 @@ Este conteúdo é uma reprodução da Constituição Federal de 1988. Para garan
 
 :::
 
-
-:::{.callout-note}
 ```{=html}
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -21,4 +19,3 @@ Este conteúdo é uma reprodução da Constituição Federal de 1988. Para garan
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 ```
-:::
