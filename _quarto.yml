@@ -31,3 +31,8 @@ format:
     include-in-header:
       - text: |
           <script src="nav-arrows.js"></script>
+
+adsense:
+  publisher-id: ca-pub-9088403291464012
+  filters:
+    - adsense
