@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - ads.txt
 
 book:
   title: "Constituição Federal de 1988"
