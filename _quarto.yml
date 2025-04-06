@@ -35,3 +35,9 @@ format:
           <script src="nav-arrows.js"></script>
           <meta name="google-site-verification" content="-vQKRrhqpcuhlTa1rrUy72i4HSEt_V7Fb4bbxJJwNwrg" />
           <meta name="google-adsense-account" content="ca-pub-9088403291464012">
+
+adsense:
+  publisher-id: ca-pub-9088403291464012
+
+filters:
+  - adsense
