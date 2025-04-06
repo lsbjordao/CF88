@@ -33,6 +33,7 @@ format:
     include-in-header:
       - text: |
           <script src="nav-arrows.js"></script>
+          <meta name="google-site-verification" content="-_8nYbiJWqYf5BlbW5g2L8l1MOF3mFhpgyml8keH22A" />
 
 adsense:
   publisher-id: ca-pub-9088403291464012
